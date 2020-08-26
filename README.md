@@ -1,3 +1,4 @@
+<pre>
 # Neural Network Structure
 Neural network with Input layer (len(nodes) - based on words trained), 1 hidden layer (10 nodes) and Output layer (1 node)  
   
@@ -21,3 +22,4 @@ error_term_1  - (10,)            # Error term at Layer 1
 4. Increase Computation Speed
 5. Further Enhance Accuracy
 6. Analysing behaviour of Weights
+</pre>
